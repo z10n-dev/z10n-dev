@@ -45,4 +45,4 @@ I am a passionate developer based in **Switzerland**. Currently, I'm diving deep
 ---
 
 ### 📫 Connect with me
-* **LinkedIn:** [LinkedIn](www.linkedin.com/in/noël-schaller-89525532b)
+* **LinkedIn:** [LinkedIn](https://linkedin.com/in/noël-schaller-89525532b)
